@@ -1,6 +1,6 @@
 # HooBank - Fully Responsive Website
 
-![HooBank Screenshot](path/to/your/screenshot.png)
+![HooBank Screenshot](https://res.cloudinary.com/duxego3ja/image/upload/v1715775216/hoobank/l0kzbmi7enyqky9al34u.png)
 
 ## Description
 HooBank is a fully responsive website built with modern UI/UX principles using React JS (Vite) and Tailwind CSS. The website features a stunning hero section, high-quality assets and gradients, business stats, reusable feature sections with call-to-action buttons, testimonials, and more.
@@ -56,9 +56,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [ayoubhayda01@gmail.com](mailto:ayoubhayda01@gmail.com)
+Ayoub Hayda - [ayoubhayda01@gmail.com](mailto:ayoubhayda01@gmail.com)
 
-Project Link: [https://github.com/your-username/hooBank-Responsive-Website](https://github.com/ayoubhayda/hooBank-Responsive-Website)
+Project Link: [https://github.com/ayoubhayda/hooBank-Responsive-Website](https://github.com/ayoubhayda/hooBank-Responsive-Website)
 
 ## Keywords
 - React JS
